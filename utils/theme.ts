@@ -44,7 +44,7 @@ export const nftThemeMeta: NftThemeMeta = {
       rewards: lalezar,
     },
     logoPath: '/logos/logo.png',
-    platformName: 'Mango',
+    platformName: 'Pepex',
     rainAnimationImagePath: '',
     sideImagePath: '',
     sideTilePath: '',
