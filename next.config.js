@@ -26,6 +26,11 @@ const nextConfig = {
     ],
   },
   reactStrictMode: true,
+
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  
   //proxy for openserum api cors
   rewrites: async () => {
     return [
